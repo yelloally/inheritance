@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "9IHzgL1hW5qSFQzFahMObQS/QSOsIWg/+jChVvlPySzVrgVPJtnD1Eblfeym5roGfBEWFIG225pwjQ8Xv0ed/g==",
+  "success": true,
+  "projectFilePath": "/Users/yellobunny/Projects/c_sharp/inheritance/inheritance.csproj",
+  "expectedPackageFiles": [
+    "/Users/yellobunny/.nuget/packages/microsoft.build.framework/17.5.0/microsoft.build.framework.17.5.0.nupkg.sha512",
+    "/Users/yellobunny/.nuget/packages/microsoft.win32.systemevents/6.0.0/microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "/Users/yellobunny/.nuget/packages/system.drawing.common/6.0.0/system.drawing.common.6.0.0.nupkg.sha512",
+    "/Users/yellobunny/.nuget/packages/system.security.accesscontrol/6.0.0/system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "/Users/yellobunny/.nuget/packages/system.security.permissions/6.0.0/system.security.permissions.6.0.0.nupkg.sha512",
+    "/Users/yellobunny/.nuget/packages/system.windows.extensions/6.0.0/system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
